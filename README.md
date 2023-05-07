@@ -61,7 +61,11 @@ Then I wanted to check if different kind of users prefer a particular type of bi
 
 ### Popular stations
 
+In my analysis, I looked at the most popular bike stations for both member and casual riders to gain insight into how they use the bikes. To begin, we need to define what "popular" means. A station is considered popular if many riders end their trips there. In the heatmap below, we can see the concentration of rides for both member and casual riders in Chicago. The maps show that most of the rides are centered around the city center. However, there are some differences. For example, on the south side of the city around Hyde Park, members tend to visit the stations more often than casual riders.
+
 ![Figure 6](/g_end_stations_member_casual.png)
+
+Looking at the top 10 popular stations, we can see that casual riders mostly use a few stations, with a maximum of around 59k rides, while members spread out across more stations, with a maximum of around 25k rides. The data also shows that members tend to visit stations close to the central business district or the university, while casual riders visit stations near cultural or entertainment districts (such as parks, theaters, and aquariums). This suggests that members use the bikes primarily for commuting purposes, while casual riders use them more for leisure activities.
 
 ![Figure 7](/TOP10.png)
 

@@ -50,17 +50,20 @@ The second and third peak don’t stand out like the first one and in the weeken
 
 ![Figure 4](/g_busiest_days_member.png)
 
-GRAPH BUSIEST MONTHS
+To deepen in the behavior of the rides depending on the day, I graphed the total number of rides per day for both casual users and member. As in the past plot, weekdays present a similar tendency, while the weekend has a more constant tendency of rides during the day. It is notable that the series casual and member follow similar tendencies on each weekday. Though the rides from members are almost always higher with exception of the weekends, there the number of rides from casual users increases fast and is practically the same as members. This insight suggests that at least the half of casual riders utilize the bikes more on the weekends on their free time rather than for commuting. A last interesting observation from the graph is that rides in the night increase on Fridays and Saturdays, usual days for socializing and dining out, this just corroborates that both members and casual riders use the bike also in their free time.
+
+
 ### Bike's preferences
 
 ![Figure 5](/g_type_bike.png)
 
-To deepen in the behavior of the rides depending on the day, I graphed the total number of rides per day for both casual users and member. As in the past plot, weekdays present a similar tendency, while the weekend has a more constant tendency of rides during the day. It is notable that the series casual and member follow similar tendencies on each weekday. Though the rides from members are almost always higher with exception of the weekends, there the number of rides from casual users increases fast and is practically the same as members. This insight suggests that at least the half of casual riders utilize the bikes more on the weekends on their free time rather than for commuting. A last interesting observation from the graph is that rides in the night increase on Fridays and Saturdays, usual days for socializing and dining out, this just corroborates that both members and casual riders use the bike also in their free time.
-
+Then I wanted to check if different kind of users prefer a particular type of bike from the 3 that the company offers. In the case of members, around 58% of the rides were made with a classic bike and the rest used the electric bike. On the other hand, casual users used slightly more electric bikes than the classic ones. The docked bike was used just by a few percentages of casual riders, and none member. In conclusion, members prefer slightly classic bikes and casual electric bikes, but the difference is not so significant.
 
 ### Popular stations
 
-![Figure 6](/TOP10-1.png)
+![Figure 6](/g_end_stations_member_casual.png)
+
+![Figure 7](/TOP10.png)
 
 
 ## Recommendations

@@ -8,7 +8,7 @@ The objective of this analysis is to find out how casual riders and members use 
 For this project I based my study on the six phases of the Data Analytics Cycle: Ask, Prepare, Process, Analyze, Share and Act.
 
 
-## First setp: Preparing an processing the data
+## First step: Preparing an processing the data
 Before starting the analysis, it is important to check the integrity of the data. The data is owned by the City of Chicago and it was published by Lyft Bikes and Scooters (llc), which is the company that operates the Divvy service. The fact that the company that collects the data published it, makes the data relieve, original, and unbiased. 
 There are data from different years available and every year is divided in 12 datasets corresponding to every month. I took the data from 2022, given that it is the last current complete year.
 I selected R as my tool to clean and analyze the data, since it is a powerful tool that can process millions of data quickly and also makes really good visualizations. I also used Tableau for one of my visuals. I used the following libraries on my analysis: *ggplot2*, *tidyverse*, *scales*, *lubridate*, and basic R functions.  

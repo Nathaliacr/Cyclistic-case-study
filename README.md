@@ -70,9 +70,31 @@ Looking at the top 10 popular stations, we can see that casual riders mostly use
 ![Figure 7](/TOP10.png)
 
 
+## Conclusions
+
+The data analysis shows that there are significant differences in how bike-share users utilize the service. 
+
+-Members primarily use the service for commuting, while casual riders use it for leisure. Members are likely residents of the city or metropolitan area, whereas many casual riders are tourists. 
+-Additionally, members travel shorter distances on average than casual riders, but they consistently use the service throughout the year. 
+
+-Casual riders use the service less frequently during colder seasons, but usage increases dramatically in the summer. 
+
+-There is also a slight difference in the type of bikes used, with casual riders utilizing electric bikes more often and members using classic bikes. 
+
+-Both members and casual riders travel frequently to the center of the city.
+
 ## Recommendations
 
-## Conclusions
+The objective of this analysis was to identify the differences between bike-share users and develop strategies to convert casual riders into members. 
+1. Based on the findings, it is recommended to focus on marketing strategies during warm seasons to encourage casual riders to purchase memberships rather than daily tickets. 
+2. Outdoor advertising should be implemented near the top stations of casual rides, such as Streeter Dr & Grand Ave, DuSable Lake Shore Dr & Monroe St, Millennium Park, Michigan Ave & Oak St, as these are the most popular destinations. 
+3. Offering a 6-month membership option for casual riders would also be effective. 
+4. Lastly, providing discounts on membership during the weekends can encourage casual riders to utilize the service more frequently.
+
+
+
+
+
 
 
 

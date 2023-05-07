@@ -48,7 +48,7 @@ Let’s start with the general behavior of the rides during the year without dis
 It is also important to highlight that there are three notable peaks on the multiples. The first and largest peak is the maximum of each month, that occurs around 17:30, at that time people go normally out of work or just go home. After 18:00 the number of the rides decreases exponentially.  On the other hand, on Saturdays and Sundays doesn’t really exist this peak, instead the maximum extends almost homogeneous throughout the afternoon, indicating that the bikes are likely being used for leisure rather than for commuting.
 The second and third peak don’t stand out like the first one and in the weekend series they don’t even exist. Nevertheless, they are worth mentioning because of what they can point out. One of the peaks occurs around 6:30-7:00, a sign that a significant proportion of the users use the bikes to commute since they are typical times to go to work. The other “peak” (it’s more like a flat-topped Gaussian distribution) is not so well-defined as the first one, but occurs between 12-13:00, around this time workers/students and in general people got to lunch.
 
-![Figure 4](/g_busiest_days.png)
+![Figure 4](/g_busiest_days_member.png)
 
 GRAPH BUSIEST MONTHS
 ### Bike's preferences

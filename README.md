@@ -20,10 +20,8 @@ Secondly, I checked the type of every column*, but everything was imported corre
 
 ## Second step: Analysing the data
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### Who uses the bikes more
-
 
 ![Figure 1](/g_total_rides.png)
 
@@ -62,7 +60,7 @@ To deepen in the behavior of the rides depending on the day, I graphed the total
 
 ### Popular stations
 
-![Figure 5](/TOP10-1.png)
+![Figure 6](/TOP10-1.png)
 
 
 ## Recommendations

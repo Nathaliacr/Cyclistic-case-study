@@ -35,7 +35,6 @@ In this part I wanted to determinate the proportion of rides taken by members ve
 
 
 Then I was interested on the behavior of these rides, are they short? Long? Is there a pattern? That’s why I calculated the average ride length per month. The results showed two different behaviors during the year: Members ride in average relatively shorter than casual member. One possible explanation for this phenomenon is that the annual members use the bikes primarily as commuting medium, they drive regularly, even in winter times; whereas casual members may use them for their leisure time. The length of rides doesn’t change in general so much, just in the three last months of the year, which the ride’s times for the casual users reduces by almost 10 minutes. This drastic reduction coincides with winter. Maybe they prefer not to drive when the temperatures are cold, and as a result, the average times change much. Despite that, further evidence is needed to draw any firm conclusions. 
-(GRAPH 2: AVERAGE LENGTH OF RIDE)
 
 
 ### Busiest times of the year

@@ -1,6 +1,6 @@
 # Cyclistic: A Case of Study
 
-This is the final project from the Google Data Analytics Certificate. Here I analyzed a case of study from a fictional company. Nonetheless, data utilized in this project is real and belong to Divvy bicycle-sharing service in Chicago (Link license). 
+This is the final project from the Google Data Analytics Certificate. Here I analyzed a case of study from a fictional company. Nonetheless, data utilized in this project is real and belong to Divvy bicycle-sharing service in Chicago [Link license](https://ride.divvybikes.com/data-license-agreement). 
 
 ## Scenario
 Cyclistic is a fictional company that offers bike-share services since 2016. Nowadays the company counts with more than 6000 geotracked bikes and more than 700 stations across Chicago. Previously, Marketing’s strategy was centered on building general awareness of the program to broad consumers segments. But now the Marketing team wants to focus on increasing profit by maximizing the number of annual members, because users with an annual membership are more profitable than users that buy single-day or full-day tickets.

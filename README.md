@@ -5,7 +5,7 @@ This is the final project from the Google Data Analytics Certificate. Here I ana
 ## Scenario
 Cyclistic is a fictional company that offers bike-share services since 2016. Nowadays the company counts with more than 6000 geotracked bikes and more than 700 stations across Chicago. Previously, Marketing’s strategy was centered on building general awareness of the program to broad consumers segments. But now the Marketing team wants to focus on increasing profit by maximizing the number of annual members, because users with an annual membership are more profitable than users that buy single-day or full-day tickets.
 The objective of this analysis is to find out how casual riders and members use the bikes, so the marketing team can create new strategies in digital media to convert casual users into members. So the question that will guide my analysis is: How do annual members and casual riders use Cyclistic bikes differently?
-For this project I based my study on the six phases of the data analytics process*: Ask, Prepare, Process, Analyze, Share and Act.
+For this project I based my study on the six phases of the data analytics cycle: Ask, Prepare, Process, Analyze, Share and Act.
 
 
 ## First setp: Preparing an processing the data
